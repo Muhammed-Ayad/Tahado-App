@@ -6,6 +6,7 @@
 
 
 # Tahado تطبيق تهادوا
+[![version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/Muhammed-Ayad/Tahado-App/edit)	
 [![Downloads](https://PlayBadges.pavi2410.me/badge/downloads?id=com.give.gifts.mohamed.ayad)](https://play.google.com/store/apps/details?id=com.give.gifts.mohamed.ayad)
 
 You can add products to display for sale when you register as a seller – Tahado
